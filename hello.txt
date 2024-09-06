@@ -1,3 +1,1 @@
 I am learning git. This is fun.
-
-I am adding more information to this file.
